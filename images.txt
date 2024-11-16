@@ -1,8 +1,12 @@
 nginx
+registry
 jenkins:2.7.3
 elasticsearch:7.17.7
 kibana:7.17.7
 rabbitmq:3.9.7
+openjdk:8u201-windowsservercore
+
+
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #支持指定架构
