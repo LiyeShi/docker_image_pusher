@@ -7,6 +7,7 @@ rabbitmq:3.9.7
 aafink/jdk_8u202
 kibana:7.12.1
 openjdk:24-ea-11-jdk-oracle
+moviepilot-v2:2.7.5
 
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
